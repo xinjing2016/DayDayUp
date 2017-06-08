@@ -100,9 +100,21 @@ summary:
   学vue，用了bootstraps和vue做了一个简易留言板
 5.use git bash to upload report
   用git bash 上传日志
+
 ------------------------------------------------------
 2017.6.8
-1.must finish all the pages.一定要完成所有的页面
+1.must finish all the pages.(75%)一定要完成所有的页面
+
+summary:
+1.there are several pages to do,about 5 to 7.还有5-7个页面没做完
+2.too tried to do.很累，工作多，但是工资低，等转正的时候问问能不能提工资，不然就离职
+3.learn new kind of food .栗子鸡汤和韭黄炒蛋
+
+------------------------------------------------------
+2017.6.9
+1.完成剩下的页面。finish the rest pages
+2.血站的设计和修改.finish the desgin of weiChat project
+3.飞镖项目的原型.finish the prototype of FeiBiao app
 
 
 
