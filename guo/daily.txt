@@ -112,12 +112,19 @@ summary:
 
 ------------------------------------------------------
 2017.6.9
-1.完成剩下的页面。finish the rest pages
-2.血站的设计和修改.finish the desgin of weiChat project
-3.飞镖项目的原型.finish the prototype of FeiBiao app
+1.完成剩下的页面。finish the rest pages(80%)
+2.血站的设计和修改.finish the desgin of weiChat project(done)
+3.飞镖项目的原型.finish the prototype of FeiBiao app(done)
 
+summary:
+1.i am not satisfied with the new ui,what can i do?how to speed up the ability of designing in a limited period.
 
+------------------------------------------------------
+2017.6.10
 
+plan:
+1.learn 10 apps and learn all the detalis of thoes.(看十个app，然后学习她们的排版，配色，逻辑)
+2.vue
 
 
 
