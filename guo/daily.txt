@@ -117,14 +117,40 @@ summary:
 3.飞镖项目的原型.finish the prototype of FeiBiao app(done)
 
 summary:
-1.i am not satisfied with the new ui,what can i do?how to speed up the ability of designing in a limited period.
+1.i am not satisfied with the new ui,what can i do? how to speed up the ability of designing in a limited period.
 
 ------------------------------------------------------
 2017.6.10
 
 plan:
-1.learn 10 apps and learn all the detalis of thoes.(看十个app，然后学习她们的排版，配色，逻辑)
-2.vue
+1.learn 10 apps and learn all the detalis of thoes.(看十个app，然后学习她们的排版，配色，逻辑)（25%）
+2.vue(0%)
+
+summary:
+1.order a bank card in ICBC(办卡)
+2.desgined a post for my mom and printed it.(设计稿子，印刷)
+3.Can't control myself , what can i do?
+
+------------------------------------------------------
+2017.6.11
+summary:
+1.learn 5 apps
+2.see a movie which made me regret.
+3.the boiled-frog problem made me annoyed
+
+------------------------------------------------------
+2017.6.12
+summary:
+1.modified pages,which meet my boss demand
+2.please focus on what you do , and pay attention.
+
+------------------------------------------------------
+2017.6.13
+plan :
+1.finish modifing the rest pages.
+2.see vedios of 16th.(看第十六集ui视频)
+3.vue 
+4.i want to enter State-owned enterprise just on the road and find my way.
 
 
 
