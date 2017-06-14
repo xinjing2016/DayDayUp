@@ -53,19 +53,15 @@ summary:feel sorry
 summary:everything will be well
 
 ------------------------------------------------------
-2017.6.1
+2017.6.2
 1.modify errors 
 2.write 3 pages in weichat
 summary:
 1.feel well 
 
 ------------------------------------------------------
-2017.6.2
-1.vue day 1
-
-------------------------------------------------------
 2017.6.3
-1.go home
+1.vue day 1
 
 ------------------------------------------------------
 2017.6.4
@@ -73,17 +69,21 @@ summary:
 
 ------------------------------------------------------
 2017.6.5
+1.go home
+
+------------------------------------------------------
+2017.6.6
 1.design 3 pages
 summary: too slow
 
 ------------------------------------------------------
-2017.6.6
+2017.6.7
 1.modify 3 pages
 2.cut 2 pieces of pages
 summary: too slow to desgin
 
 ------------------------------------------------------
-2017.6.7
+2017.6.8
 plan:
 1.write a function（done）
 2.finish 2 index of pages(50%)
@@ -102,7 +102,7 @@ summary:
   用git bash 上传日志
 
 ------------------------------------------------------
-2017.6.8
+2017.6.9
 1.must finish all the pages.(75%)一定要完成所有的页面
 
 summary:
@@ -111,7 +111,7 @@ summary:
 3.learn new kind of food .栗子鸡汤和韭黄炒蛋
 
 ------------------------------------------------------
-2017.6.9
+2017.6.10
 1.完成剩下的页面。finish the rest pages(80%)
 2.血站的设计和修改.finish the desgin of weiChat project(done)
 3.飞镖项目的原型.finish the prototype of FeiBiao app(done)
@@ -120,7 +120,7 @@ summary:
 1.i am not satisfied with the new ui,what can i do? how to speed up the ability of designing in a limited period.
 
 ------------------------------------------------------
-2017.6.10
+2017.6.11
 
 plan:
 1.learn 10 apps and learn all the detalis of thoes.(看十个app，然后学习她们的排版，配色，逻辑)（25%）
@@ -132,20 +132,20 @@ summary:
 3.Can't control myself , what can i do?
 
 ------------------------------------------------------
-2017.6.11
+2017.6.12
 summary:
 1.learn 5 apps
 2.see a movie which made me regret.
 3.the boiled-frog problem made me annoyed
 
 ------------------------------------------------------
-2017.6.12
+2017.6.13
 summary:
 1.modified pages,which meet my boss demand
 2.please focus on what you do , and pay attention.
 
 ------------------------------------------------------
-2017.6.13
+2017.6.14
 plan :
 1.finish modifing the rest pages.(80%)
 2.see vedios of 16th.(看第十六集ui视频)(100%)
@@ -159,6 +159,16 @@ summary:
 3.to myself:买了一双凉鞋，听说有台风，应该不会再买衣服了。然后算了一下收入，出来工作的日子，我应该把大四的学费挣回来了。然后需要和老板谈谈，觉得谈到4500是可以的。今天去见客户，我更加有信心了。原来公司准备去云南，我打算工作到开学，没什么好后悔的。
 
 
+------------------------------------------------------
+2017.6.15
+plan:
+on plan
+
+summary:
+1.choose to be a font-end developer in the future.
+2.finished an index page of new project awfully.
+3.Give everything a shot. You never know what or who is going to change your life.
+4.加薪无望，工作减半，希望来一个漂亮的妹子。有更多时间做自己爱做的事了。
 
 
 
