@@ -15,7 +15,7 @@ summury;1.modified 3 pages in ui
 4.do more but learn less
 5.to Bin:make a plan according to your condition and carry on
 
-bin: thanks for your advice. Put on steam£¬to be an excellent girl!
+bin: thanks for your advice. Put on steamï¼Œto be an excellent girl!
 
 ------------------------------------------------------
 2017.5.27
@@ -85,36 +85,36 @@ summary: too slow to desgin
 ------------------------------------------------------
 2017.6.8
 plan:
-1.write a function£¨done£©
+1.write a functionï¼ˆdoneï¼‰
 2.finish 2 index of pages(50%)
 3.finish designing others pages(20%)
 
 summary:
-1.learn a new kind of food£¬thought looks awfully but takes good
-  Ñ§ÁËÒ»µÀĞÂ²Ë£¬ÉÕÇÑ×Ó,ËäÈ»²»ºÃ¿´£¬µ«ÕæµÄºÜºÃ³Ô
+1.learn a new kind of foodï¼Œthought looks awfully but takes good
+  å­¦äº†ä¸€é“æ–°èœï¼Œçƒ§èŒ„å­,è™½ç„¶ä¸å¥½çœ‹ï¼Œä½†çœŸçš„å¾ˆå¥½åƒ
 2.read a new kind of app,Wangzhe,thanks my sweet heart
-  ¿´ÁËÒ»Ì×ĞÂÒ³Ãæ£¬ÍöÕßÅ©Ò©
+  çœ‹äº†ä¸€å¥—æ–°é¡µé¢ï¼Œäº¡è€…å†œè¯
 3.learn a new tool to tag pages,thanks my student
-  Ñ§ÁËÒ»¸ö±ê×¢ĞÂÍøÕ¾£º±êÄãÃÃ°¡
+  å­¦äº†ä¸€ä¸ªæ ‡æ³¨æ–°ç½‘ç«™ï¼šæ ‡ä½ å¦¹å•Š
 4.learn vue
-  Ñ§vue£¬ÓÃÁËbootstrapsºÍvue×öÁËÒ»¸ö¼òÒ×ÁôÑÔ°å
+  å­¦vueï¼Œç”¨äº†bootstrapså’Œvueåšäº†ä¸€ä¸ªç®€æ˜“ç•™è¨€æ¿
 5.use git bash to upload report
-  ÓÃgit bash ÉÏ´«ÈÕÖ¾
+  ç”¨git bash ä¸Šä¼ æ—¥å¿—
 
 ------------------------------------------------------
 2017.6.9
-1.must finish all the pages.(75%)Ò»¶¨ÒªÍê³ÉËùÓĞµÄÒ³Ãæ
+1.must finish all the pages.(75%)ä¸€å®šè¦å®Œæˆæ‰€æœ‰çš„é¡µé¢
 
 summary:
-1.there are several pages to do,about 5 to 7.»¹ÓĞ5-7¸öÒ³ÃæÃ»×öÍê
-2.too tried to do.ºÜÀÛ£¬¹¤×÷¶à£¬µ«ÊÇ¹¤×ÊµÍ£¬µÈ×ªÕıµÄÊ±ºòÎÊÎÊÄÜ²»ÄÜÌá¹¤×Ê£¬²»È»¾ÍÀëÖ°
-3.learn new kind of food .Àõ×Ó¼¦ÌÀºÍ¾Â»Æ³´µ°
+1.there are several pages to do,about 5 to 7.è¿˜æœ‰5-7ä¸ªé¡µé¢æ²¡åšå®Œ
+2.too tried to do.å¾ˆç´¯ï¼Œå·¥ä½œå¤šï¼Œä½†æ˜¯å·¥èµ„ä½ï¼Œç­‰è½¬æ­£çš„æ—¶å€™é—®é—®èƒ½ä¸èƒ½æå·¥èµ„ï¼Œä¸ç„¶å°±ç¦»èŒ
+3.learn new kind of food .æ —å­é¸¡æ±¤å’ŒéŸ­é»„ç‚’è›‹
 
 ------------------------------------------------------
 2017.6.10
-1.Íê³ÉÊ£ÏÂµÄÒ³Ãæ¡£finish the rest pages(80%)
-2.ÑªÕ¾µÄÉè¼ÆºÍĞŞ¸Ä.finish the desgin of weiChat project(done)
-3.·ÉïÚÏîÄ¿µÄÔ­ĞÍ.finish the prototype of FeiBiao app(done)
+1.å®Œæˆå‰©ä¸‹çš„é¡µé¢ã€‚finish the rest pages(80%)
+2.è¡€ç«™çš„è®¾è®¡å’Œä¿®æ”¹.finish the desgin of weiChat project(done)
+3.é£é•–é¡¹ç›®çš„åŸå‹.finish the prototype of FeiBiao app(done)
 
 summary:
 1.i am not satisfied with the new ui,what can i do? how to speed up the ability of designing in a limited period.
@@ -123,12 +123,12 @@ summary:
 2017.6.11
 
 plan:
-1.learn 10 apps and learn all the detalis of thoes.(¿´Ê®¸öapp£¬È»ºóÑ§Ï°ËıÃÇµÄÅÅ°æ£¬ÅäÉ«£¬Âß¼­)£¨25%£©
+1.learn 10 apps and learn all the detalis of thoes.(çœ‹åä¸ªappï¼Œç„¶åå­¦ä¹ å¥¹ä»¬çš„æ’ç‰ˆï¼Œé…è‰²ï¼Œé€»è¾‘)ï¼ˆ25%ï¼‰
 2.vue(0%)
 
 summary:
-1.order a bank card in ICBC(°ì¿¨)
-2.desgined a post for my mom and printed it.(Éè¼Æ¸å×Ó£¬Ó¡Ë¢)
+1.order a bank card in ICBC(åŠå¡)
+2.desgined a post for my mom and printed it.(è®¾è®¡ç¨¿å­ï¼Œå°åˆ·)
 3.Can't control myself , what can i do?
 
 ------------------------------------------------------
@@ -148,15 +148,15 @@ summary:
 2017.6.14
 plan :
 1.finish modifing the rest pages.(80%)
-2.see vedios of 16th.(¿´µÚÊ®Áù¼¯uiÊÓÆµ)(100%)
+2.see vedios of 16th.(çœ‹ç¬¬åå…­é›†uiè§†é¢‘)(100%)
 3.vue (0%)
 4.i want to enter State-owned enterprise just on the road and find my way.
 
 summary:
 1.there are 4 pages needed to be modified.
 2.meet my two clients from which i learn a lot.
-4.Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.¡ª Charles Dickens 
-3.to myself:ÂòÁËÒ»Ë«Á¹Ğ¬£¬ÌıËµÓĞÌ¨·ç£¬Ó¦¸Ã²»»áÔÙÂòÒÂ·şÁË¡£È»ºóËãÁËÒ»ÏÂÊÕÈë£¬³öÀ´¹¤×÷µÄÈÕ×Ó£¬ÎÒÓ¦¸Ã°Ñ´óËÄµÄÑ§·ÑÕõ»ØÀ´ÁË¡£È»ºóĞèÒªºÍÀÏ°åÌ¸Ì¸£¬¾õµÃÌ¸µ½4500ÊÇ¿ÉÒÔµÄ¡£½ñÌìÈ¥¼û¿Í»§£¬ÎÒ¸ü¼ÓÓĞĞÅĞÄÁË¡£Ô­À´¹«Ë¾×¼±¸È¥ÔÆÄÏ£¬ÎÒ´òËã¹¤×÷µ½¿ªÑ§£¬Ã»Ê²Ã´ºÃºó»ÚµÄ¡£
+4.Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.â€” Charles Dickens 
+3.to myself:ä¹°äº†ä¸€åŒå‡‰é‹ï¼Œå¬è¯´æœ‰å°é£ï¼Œåº”è¯¥ä¸ä¼šå†ä¹°è¡£æœäº†ã€‚ç„¶åç®—äº†ä¸€ä¸‹æ”¶å…¥ï¼Œå‡ºæ¥å·¥ä½œçš„æ—¥å­ï¼Œæˆ‘åº”è¯¥æŠŠå¤§å››çš„å­¦è´¹æŒ£å›æ¥äº†ã€‚ç„¶åéœ€è¦å’Œè€æ¿è°ˆè°ˆï¼Œè§‰å¾—è°ˆåˆ°4500æ˜¯å¯ä»¥çš„ã€‚ä»Šå¤©å»è§å®¢æˆ·ï¼Œæˆ‘æ›´åŠ æœ‰ä¿¡å¿ƒäº†ã€‚åŸæ¥å…¬å¸å‡†å¤‡å»äº‘å—ï¼Œæˆ‘æ‰“ç®—å·¥ä½œåˆ°å¼€å­¦ï¼Œæ²¡ä»€ä¹ˆå¥½åæ‚”çš„ã€‚
 
 
 ------------------------------------------------------
@@ -168,7 +168,7 @@ summary:
 1.choose to be a font-end developer in the future.
 2.finished an index page of new project awfully.
 3.Give everything a shot. You never know what or who is going to change your life.
-4.¼ÓĞ½ÎŞÍû£¬¹¤×÷¼õ°ë£¬Ï£ÍûÀ´Ò»¸öÆ¯ÁÁµÄÃÃ×Ó¡£ÓĞ¸ü¶àÊ±¼ä×ö×Ô¼º°®×öµÄÊÂÁË¡£
+4.åŠ è–ªæ— æœ›ï¼Œå·¥ä½œå‡åŠï¼Œå¸Œæœ›æ¥ä¸€ä¸ªæ¼‚äº®çš„å¦¹å­ã€‚æœ‰æ›´å¤šæ—¶é—´åšè‡ªå·±çˆ±åšçš„äº‹äº†ã€‚
 
 
 ------------------------------------------------------
@@ -176,7 +176,7 @@ summary:
 forget to write
 
 summary:
-ºÍÒ»¸öºÜÀ÷º¦µÄÍ¬Ñ§ÁÄÁËºÜ¶à£¬ºÜÊÇÏ²»¶£¬ºÜÅå·ş¡£Í¬ÑùÊÇÉí±ßµÄÈË½²ÀúÊ·£¬ÀÏÊ¦ºÍÀÏ°åÃ»ÓĞÍ¬ÁäÈËÀ´µÄÕğº³¡£
+å’Œä¸€ä¸ªå¾ˆå‰å®³çš„åŒå­¦èŠäº†å¾ˆå¤šï¼Œå¾ˆæ˜¯å–œæ¬¢ï¼Œå¾ˆä½©æœã€‚åŒæ ·æ˜¯èº«è¾¹çš„äººè®²å†å²ï¼Œè€å¸ˆå’Œè€æ¿æ²¡æœ‰åŒé¾„äººæ¥çš„éœ‡æ’¼ã€‚
 
 
 
@@ -189,12 +189,12 @@ take my mom out,i realize that there is a duty for mom i cant run away.learn a n
 
 ------------------------------------------------------
 2017.6.18
-plan:desgin some index.£¨done£©
+plan:desgin some index.ï¼ˆdoneï¼‰
 summary:
-1.that is my destiny£¬that is my dudy i should shoulder.
-2.ºÍÊ¦½ãÁÄÌìÁË£¬ËıËµËıÒª½á»éÁË£¬ÏÅµ½ÎÒÁË£¬ÄÇÃ´À÷º¦µÄËıÍ»È»±ä³ÉÁËĞ¡Å®ÈË£¬ÏÅµ½ÎÒÁË¡£
+1.that is my destinyï¼Œthat is my dudy i should shoulder.
+2.å’Œå¸ˆå§èŠå¤©äº†ï¼Œå¥¹è¯´å¥¹è¦ç»“å©šäº†ï¼Œå“åˆ°æˆ‘äº†ï¼Œé‚£ä¹ˆå‰å®³çš„å¥¹çªç„¶å˜æˆäº†å°å¥³äººï¼Œå“åˆ°æˆ‘äº†ã€‚
 
-
+binï¼šI am always here to support and encourage you along the way.
 
 
 
